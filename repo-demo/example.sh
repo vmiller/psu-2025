@@ -1,3 +1,3 @@
 #!/bin/sh
 
-echo "this is just an example"
+echo "This is just an example."
